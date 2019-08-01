@@ -4,6 +4,7 @@ System.out.println("My name");
   System.out.println("Another name");
   System.out.println("Thank you");
   System.out.println("Welcome");
+  System.out.println("Welcome all");
 }
 
 }
